@@ -1,2 +1,2 @@
 # movil-3
-JQuery Mobile
+Programacion Movil con JQuery Mobile
